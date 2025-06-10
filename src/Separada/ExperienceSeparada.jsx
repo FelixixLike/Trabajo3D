@@ -35,7 +35,7 @@ export default function ExperienceSeparada() {
             <Text color={'red'} position={[-1.5,3,-1]} fontSize={0.5}>Campana extractora </Text>
             <Text color={'red'} position={[-5,2.5,-1]} fontSize={0.3} maxWidth={2}>Parrilla de gratinado </Text>
             <Text color={'red'} position={[-3.8,0.5,-1]} fontSize={0.3} maxWidth={2}>Microondas Industrial</Text>
-            <Text color={'red'} position={[-6.5,-0.4,-1]} fontSize={0.2} maxWidth={1} textAlign={'center'}>Mesa de trabajo Con almacenamiento</Text>
+            <Text color={'red'} position={[-6.5,-0.4,-1]} fontSize={0.2} maxWidth={1} textAlign={'center'}>Mesa de trabajo con almacenamiento</Text>
             <Text color={'red'} position={[-0.5,-0.6,1]} fontSize={0.5}>Zona de fritado </Text>
             <Text color={'red'} position={[3,2,-1]} fontSize={0.3} maxWidth={2}>Cuarto de Crecimiento </Text>
             <Text color={'red'} position={[6,1,-1]} fontSize={0.4} maxWidth={2}>Batidora Industrial </Text>
